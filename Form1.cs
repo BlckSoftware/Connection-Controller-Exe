@@ -180,12 +180,11 @@ namespace connection_controller
                 Ping pingSender = new Ping();
 
 
-                // var numbers = new[] { File.ReadAllLines(AppDomain.CurrentDomain.BaseDirectory + "Cihaz_Listesi.txt") };
-                // var words = new[] { File.ReadAllLines(AppDomain.CurrentDomain.BaseDirectory + "Cihaz_Listesi.txt") };
+               
                 int timeout = 5000;// Wait 5 seconds for a reply.
 
-                // Create a buffer of 32 bytes of data to be transmitted.
-                string data = " created  by huseyin karayazim  ";    //32bayt boyutunda bir veri oluşturuldu.  
+               
+                string data = " created  by huseyin karayazim  ";    // 32bayt boyutunda bir veri oluşturuldu.  
                 byte[] buffer = Encoding.ASCII.GetBytes(data);
 
 
