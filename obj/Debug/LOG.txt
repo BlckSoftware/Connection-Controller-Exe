@@ -1,0 +1,348 @@
+Wednesday, 23 February 2022 14:21 | İstasyon : COCUKHEMATO | 10.49.0.60  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : GUNBİR | 10.49.0.156  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : CAP | 10.49.0.92  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 22ADL | 10.49.0.129  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 23HEMATO | 10.49.0.187  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : KITCOCUK | 10.49.0.181  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 24INFHAS | 10.49.0.182  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 31KBB-BC | 10.49.0.82  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 32ORTO | 10.49.0.186  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 33TKDC | 10.49.0.84  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 34COCUK | 10.49.0.202  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 36PEDCER | 10.49.0.185  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 37SC | 10.49.0.189  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 38GZL | 10.49.0.79  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 39PRE | 10.49.0.192  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 41PLASCER | 10.49.0.158  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 42GOZ | 10.49.0.135  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 43KBB | 10.49.0.57  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 44PSIK | 10.49.0.58  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 51BEYCER | 10.49.0.51  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 52ORTO | 10.49.0.52   Bağlantı Yok !!!! 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 53GENCER | 10.49.0.53  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 54TKDC | 10.49.0.54  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 61BEYCER | 10.49.0.47  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 62ORTO | 10.49.0.48  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 63GENCER | 10.49.0.49  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 64TKDC | 10.49.0.50  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 72BC-DERMA | 10.49.0.40  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 73GENCER | 10.49.0.41  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 73YANIK | 10.49.0.42  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 74NORO | 10.49.0.32  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 75ICHST | 10.49.0.175  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 75AKUT | 10.49.0.121  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 76INFHAS | 10.49.0.31  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 76ICHAS | 10.49.0.33  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 81OR | 10.49.0.130  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 82KADDOG | 10.49.0.36  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 83KADDOG | 10.49.0.37  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 84URO | 10.49.0.38  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 85DAH | 10.49.0.251  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 86ICHAS | 10.49.0.230  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 87KORONER | 10.49.0.43  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 88VIP | 10.49.0.120  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : GIRRAD | 10.49.0.73  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : GIRRAD-GOZLEM | 10.49.0.71  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : MR-BT | 10.49.0.101  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : DOGUMHANE | 10.49.0.34  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : KARKATE-1 | 10.49.0.76  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : KARKATE-2 | 10.49.0.77  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : KARKATE-3 | 10.49.0.65  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : KARKATC | 10.49.0.78  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : PACU | 10.49.0.66  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : ORDIS | 10.49.0.223  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBU74NORO | 10.49.0.100  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBUBEYCER | 10.49.0.62  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBUTKDC | 10.49.0.63  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBUCOCUK | 10.49.0.93  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : OR-1 | 10.49.0.67  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : OR-2 | 10.49.0.68  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : OR-3ILAC | 10.49.0.69  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : OR-4ILAC | 10.49.0.70  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBUKORONER-1 | 10.49.0.200  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBUGENCERZ | 10.49.0.203   Bağlantı Yok !!!! 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : SGASTRO | 10.49.0.236  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 90ONK | 10.49.0.72  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 91ONK | 10.49.0.95  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 92ONK | 10.49.0.96  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 92BONK | 10.49.0.209  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : PEDONK | 10.49.0.105  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 93ONK | 10.49.0.97  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 93BONK | 10.49.0.98  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : KITONK | 10.49.0.102  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 94BONK | 10.49.0.103  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 95BONK | 10.49.0.108  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : 95ONK | 10.49.0.99  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : GÜNDÜZTEDAVİ | 10.49.0.107  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBUANESTEZİ | 10.49.0.240  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBUICHAS-1 | 10.49.0.241  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBUICHAS-2 | 10.49.0.243  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBUICHAS-3 | 10.49.0.244  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : YBUGENCER | 10.49.0.242  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : BAP-KRITİKBAKIM | 10.49.0.224  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : BAP-ACİLBAKIM | 10.49.0.225  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : BAP-HIZLIBAKIM | 10.49.0.226  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : BAP-RESUSITASYON | 10.49.0.227  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : BAP-İLACHAZIRLAMA | 10.49.0.228  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:21 | İstasyon : INME | 10.49.0.229  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : COCUKHEMATO | 10.49.0.60  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : GUNBİR | 10.49.0.156  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : CAP | 10.49.0.92  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 22ADL | 10.49.0.129  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 23HEMATO | 10.49.0.187  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : KITCOCUK | 10.49.0.181  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 24INFHAS | 10.49.0.182  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 31KBB-BC | 10.49.0.82  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 32ORTO | 10.49.0.186  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 33TKDC | 10.49.0.84  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 34COCUK | 10.49.0.202  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 36PEDCER | 10.49.0.185  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 37SC | 10.49.0.189  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 38GZL | 10.49.0.79  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 39PRE | 10.49.0.192  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 41PLASCER | 10.49.0.158  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 42GOZ | 10.49.0.135  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 43KBB | 10.49.0.57  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 44PSIK | 10.49.0.58  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 51BEYCER | 10.49.0.51  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 52ORTO | 10.49.0.52   Bağlantı Yok !!!! 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 53GENCER | 10.49.0.53  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 54TKDC | 10.49.0.54  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 61BEYCER | 10.49.0.47  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 62ORTO | 10.49.0.48  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 63GENCER | 10.49.0.49  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 64TKDC | 10.49.0.50  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 72BC-DERMA | 10.49.0.40  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 73GENCER | 10.49.0.41  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 73YANIK | 10.49.0.42  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 74NORO | 10.49.0.32  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 75ICHST | 10.49.0.175  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 75AKUT | 10.49.0.121  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 76INFHAS | 10.49.0.31  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 76ICHAS | 10.49.0.33  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 81OR | 10.49.0.130  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 82KADDOG | 10.49.0.36  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 83KADDOG | 10.49.0.37  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 84URO | 10.49.0.38  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 85DAH | 10.49.0.251  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 86ICHAS | 10.49.0.230  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 87KORONER | 10.49.0.43  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 88VIP | 10.49.0.120  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : GIRRAD | 10.49.0.73  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : GIRRAD-GOZLEM | 10.49.0.71  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : MR-BT | 10.49.0.101  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : DOGUMHANE | 10.49.0.34  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : KARKATE-1 | 10.49.0.76  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : KARKATE-2 | 10.49.0.77  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : KARKATE-3 | 10.49.0.65  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : KARKATC | 10.49.0.78  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : PACU | 10.49.0.66  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : ORDIS | 10.49.0.223  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBU74NORO | 10.49.0.100  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBUBEYCER | 10.49.0.62  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBUTKDC | 10.49.0.63  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBUCOCUK | 10.49.0.93  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : OR-1 | 10.49.0.67  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : OR-2 | 10.49.0.68  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : OR-3ILAC | 10.49.0.69  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : OR-4ILAC | 10.49.0.70  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBUKORONER-1 | 10.49.0.200  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBUGENCERZ | 10.49.0.203   Bağlantı Yok !!!! 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : SGASTRO | 10.49.0.236  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 90ONK | 10.49.0.72  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 91ONK | 10.49.0.95  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 92ONK | 10.49.0.96  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 92BONK | 10.49.0.209  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : PEDONK | 10.49.0.105  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 93ONK | 10.49.0.97  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 93BONK | 10.49.0.98  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : KITONK | 10.49.0.102  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 94BONK | 10.49.0.103  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 95BONK | 10.49.0.108  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : 95ONK | 10.49.0.99  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : GÜNDÜZTEDAVİ | 10.49.0.107  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBUANESTEZİ | 10.49.0.240  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBUICHAS-1 | 10.49.0.241  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBUICHAS-2 | 10.49.0.243  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBUICHAS-3 | 10.49.0.244  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : YBUGENCER | 10.49.0.242  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : BAP-KRITİKBAKIM | 10.49.0.224  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : BAP-ACİLBAKIM | 10.49.0.225  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : BAP-HIZLIBAKIM | 10.49.0.226  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : BAP-RESUSITASYON | 10.49.0.227  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : BAP-İLACHAZIRLAMA | 10.49.0.228  Bağlantı Var. 
+
+Wednesday, 23 February 2022 14:40 | İstasyon : INME | 10.49.0.229  Bağlantı Var. 
+
