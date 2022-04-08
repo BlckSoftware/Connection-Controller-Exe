@@ -17,15 +17,19 @@ namespace connection_controller
 {
     public partial class connection_controller : Form
     {
-      
-        string zaman = DateTime.Now.ToString("f",CultureInfo.CurrentCulture); // Tarih saat formatı mevcut tarih saat formatında ayarlandı.
        
+        string zaman = DateTime.Now.ToString("f", CultureInfo.CreateSpecificCulture("tr-TR"));// Tarih saat formatı mevcut tarih saat formatında ayarlandı.
+
         DataTable table = new DataTable();
  
         
         public connection_controller()
         { CheckForIllegalCrossThreadCalls = false;
 
+
+           // Tarih Formatı Turkçe olarak belirlendi.
+
+              
             checkfiles();
           
             InitializeComponent();
@@ -504,6 +508,7 @@ namespace connection_controller
                    
         public void send_mail()
         {
+           
             string alıcı = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + "kim.txt"); //alıcı mail adresilerini dışarıdan ekliyor.
             var log = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + "label.txt");
 
