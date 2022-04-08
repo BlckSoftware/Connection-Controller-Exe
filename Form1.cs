@@ -145,14 +145,7 @@ namespace connection_controller
                 MessageBox.Show(message, title, buttons, MessageBoxIcon.Warning);
             }
 
-           /* if (!File.Exists(AppDomain.CurrentDomain.BaseDirectory + "mail.txt"))  // Log.txt yok ise .
-            {
-                File.Create(AppDomain.CurrentDomain.BaseDirectory + "mail.txt").Close(); // Dosya yarat.
-                string message = "''mail.txt  BULUNAMADI !!''\n''mail.txt'' ADINDA TEXT DOSYASI OLUŞTURULDU " + AppDomain.CurrentDomain.BaseDirectory + "\n \n README.TXT GÖZ ATIN";
-                string title = "UYARI";
-                MessageBoxButtons buttons = MessageBoxButtons.OK;
-                MessageBox.Show(message, title, buttons, MessageBoxIcon.Warning);
-            }*/
+        
             if (!File.Exists(AppDomain.CurrentDomain.BaseDirectory + "kim.txt"))  // Log.txt yok ise .
             {
                 File.Create(AppDomain.CurrentDomain.BaseDirectory + "kim.txt").Close(); // Dosya yarat.
