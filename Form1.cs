@@ -18,7 +18,7 @@ namespace connection_controller
     public partial class connection_controller : Form
     {
        
-        string zaman = DateTime.Now.ToString("f", CultureInfo.CreateSpecificCulture("tr-TR"));// Tarih saat formatı mevcut tarih saat formatında ayarlandı.
+        string zaman = DateTime.Now.ToString("f", CultureInfo.CreateSpecificCulture("tr-TR"));// Tarih saat formatı Türkçe ayarlandı.
 
         DataTable table = new DataTable();
  
@@ -37,15 +37,15 @@ namespace connection_controller
                     
           
 
-            table.Columns.Add("CİHAZ ADI", typeof(string));    // CIHAZ_ADIadında sütun oluşturuldu .
-            table.Columns.Add("CİHAZ İP", typeof(string));     // CIHAZ_IP adında sütun oluşturuldu .
+            table.Columns.Add("CİHAZ ADI", typeof(string));    // CIHAZ_ADI adında sütun oluşturuldu .
+            table.Columns.Add("CİHAZ İP", typeof(string));     // CIHAZ_IP  adında sütun oluşturuldu .
 
 
            
-            dosya_cleaner();
+            dosya_cleaner(); // log dosyasının boyutu denetleniyor belirtilen boyutu geçtiğinde text dosyası silinip yeniden oluşturuluyor.
 
 
-            dataGridView1.DataSource = table;  // table adındaki tablo formda oluşturulan data grid ine bağlandı.
+            dataGridView1.DataSource = table;  // table adındaki tablo formda oluşturulan data grid'ine bağlandı.
 
 
             int row_count = table.Rows.Count;
@@ -56,21 +56,18 @@ namespace connection_controller
             {
 
 
-                values = liste[i].ToString().Split('|');   // tabloda "/" ile sütunlar ayrıldı .
+                values = liste[i].ToString().Split('|');   // tabloda "|" cihaz adı ve ipsi arasında "|" karakteri kullanıldığı için "|" karekteri öncesi ve sonrası 2 farklı data olarak ayrıldı.
 
 
 
                 string[] row = new string[values.Length];   // sütunları okumak için for döngüsü yapıldı.
                 for (int j = 0; j < values.Length; j++)
                 {
-                    row[j] = values[j].Trim();
-                    
+                    row[j] = values[j].Trim();                  
 
                 }
                 
-                    table.Rows.Add(row);  // Text deki değerler tabloya aktarıldı.
-
-          
+                    table.Rows.Add(row);  // Text deki değerler tabloya aktarıldı.         
             
             
             }
@@ -160,8 +157,7 @@ namespace connection_controller
         
         void loading()
         {
-            ICMP();
-           
+            ICMP();           
             
         }
         public  void ICMP()
@@ -189,7 +185,7 @@ namespace connection_controller
                 int timeout = 5000;// Wait 5 seconds for a reply.
 
                 // Create a buffer of 32 bytes of data to be transmitted.
-                string data = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+                string data = " created  by huseyin karayazim  ";    //32bayt boyutunda bir veri oluşturuldu.  
                 byte[] buffer = Encoding.ASCII.GetBytes(data);
 
 
@@ -388,7 +384,7 @@ namespace connection_controller
 
             DataTable table = new DataTable(); // table adında tablo oluşturuldu .
 
-            // table.Columns.Add("NO ", typeof(int));               // NO adında sütun oluşturuldu .
+            
             table.Columns.Add("CİHAZ ADI", typeof(string));    // CIHAZ_ADIadında sütun oluşturuldu .
             table.Columns.Add("CİHAZ İP", typeof(string));     // CIHAZ_IP adında sütun oluşturuldu .
 
