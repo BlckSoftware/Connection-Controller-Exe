@@ -27,7 +27,7 @@ namespace connection_controller
         { CheckForIllegalCrossThreadCalls = false;
 
 
-           // Tarih Formatı Turkçe olarak belirlendi.
+          
 
               
             checkfiles();
@@ -41,7 +41,7 @@ namespace connection_controller
             table.Columns.Add("CİHAZ İP", typeof(string));     // CIHAZ_IP adında sütun oluşturuldu .
 
 
-            // CIHAZ_ADI sütununu cihaz_list değişkenine aktarıyorum.
+           
             dosya_cleaner();
 
 
@@ -184,7 +184,7 @@ namespace connection_controller
                 Ping pingSender = new Ping();
 
 
-                //  var numbers = new[] { File.ReadAllLines(AppDomain.CurrentDomain.BaseDirectory + "Cihaz_Listesi.txt") };
+                // var numbers = new[] { File.ReadAllLines(AppDomain.CurrentDomain.BaseDirectory + "Cihaz_Listesi.txt") };
                 // var words = new[] { File.ReadAllLines(AppDomain.CurrentDomain.BaseDirectory + "Cihaz_Listesi.txt") };
                 int timeout = 5000;// Wait 5 seconds for a reply.
 
