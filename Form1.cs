@@ -528,12 +528,12 @@ namespace connection_controller
             istemci.Port = 587;
             istemci.Host = "smtp.gmail.com";
             istemci.EnableSsl = true;
-            istemci.Credentials = new System.Net.NetworkCredential("stockart.notifications@gmail.com", "sim4444633");
+            istemci.Credentials = new System.Net.NetworkCredential("gonderici_mailadresi@mailadresi.com", "mailsifresi");
 
             error.To.Add(alıcı);
 
-            error.From = new MailAddress("stockart.notifications@gmail.com");
-            error.Subject = ("Hacettepe Hastanesi  Haberleşme Uyarısı ");
+            error.From = new MailAddress("gonderici_mailadresi@mailadresi.com");
+            error.Subject = ("MAIL BASLIGI ");
             error.Body = (" \n \n DİKKAT\n\n Sayın Yetkili Aşağıdaki İstasyon / İstasyonlara Bağlantı Sağlanamamaktadır.\n\n \n " + log+" \n\n\n\n\n\n  \n \n \n Tarih : " +zaman);
             
             istemci.Send(error);
