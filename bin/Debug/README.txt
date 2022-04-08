@@ -14,7 +14,7 @@ TEXT DOSYALARI : Cihaz_Listesi.txt , kim.txt , LOG.txt , mail.txt
 
 
 UYGULAMA :
-		UYGULAMA İÇERİSİNDEN CİHAZ EKLEYEBİLİRSİNİZ.
+		UYGULAMA İÇERİSİNDEN CİHAZ EKLEYEBİLİRSİNİZ. Cihaz_Listesi.txt DİREKT KAYIT EDİLİR.
 
 		UYGULAMA İÇERİSİNDEN CİHAZ SİLEBİLİRSİNİZ Cihaz_Listesi.txt DİREKT KAYIT EDİLİR.
 
